@@ -6,5 +6,7 @@ para realizar un enlace entre páginas, con archivo css.
 realizar un video de ayuda al usuario, para registrarse, agregar producto y como ingresar
 # videos
 https://youtu.be/7UASH6Dyvyw (iniciar sesión)
+
 https://youtu.be/_yA7QntRzfU (ingresar producto)
+
 https://youtu.be/ObTNoWwIQrs (crear usuario)
